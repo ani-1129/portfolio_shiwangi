@@ -39,8 +39,8 @@ export const About: React.FC = () => {
               transition={{ duration: 0.8 }}
             >
               <img 
-                src="/about_strategy.png" 
-                alt="Strategy & Growth Concept"
+                src="/shiwangi_2.jpg" 
+                alt="Shiwangi Singh Portrait"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-bg-primary/50 to-transparent pointer-events-none" />

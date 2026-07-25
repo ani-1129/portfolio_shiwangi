@@ -126,7 +126,7 @@ export const Hero: React.FC = () => {
             {/* Image Wrapper */}
             <div className="w-full h-full rounded-2xl overflow-hidden border border-border-subtle relative z-10 group shadow-2xl">
               <motion.img
-                src="/portrait.png"
+                src="/shiwangi_1.jpg"
                 alt="Shiwangi Singh Portrait"
                 className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
                 whileHover={{ scale: 1.04 }}

@@ -76,13 +76,13 @@ function AppContent() {
         <meta property="og:type" content="website" />
         <meta property="og:title" content={`${name} | ${title}`} />
         <meta property="og:description" content={tagline} />
-        <meta property="og:image" content="/portrait.png" />
+        <meta property="og:image" content="/shiwangi_1.jpg" />
         
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={`${name} | ${title}`} />
         <meta name="twitter:description" content={tagline} />
-        <meta name="twitter:image" content="/portrait.png" />
+        <meta name="twitter:image" content="/shiwangi_1.jpg" />
 
         {/* Structured Data */}
         <script type="application/ld+json">
